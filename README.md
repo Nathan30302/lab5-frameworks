@@ -23,7 +23,7 @@
 - The component displays a welcome message using props.
 - A button toggles a message using `useState()`.
 
-**CodeSandbox Link:** [https://codesandbox.io/p/sandbox/react-new]
+**CodeSandbox Link:** [https://codesandbox.io/p/sandbox/lab5-react-demo-3jmj93]
 
 ---
 
